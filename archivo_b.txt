@@ -1,4 +1,3 @@
 creo una primera linea en archivo_b.txt
-
- Creou una segunda linea en el archivo_b.txt
-Creo una tercera linea en el archivo_c.txt
+Creo una segunda linea en el archivo_b.txt
+Creo una tercera linea en el archivo_b.txt
